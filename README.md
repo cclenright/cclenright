@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
-- 📫 How to reach me cclenright2yahoo.com
+- 📫 How to reach me cclenright@yahoo.com
 
 <!---
 cclenright/cclenright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
